@@ -10,6 +10,11 @@ Users can add or remove books from the shopping cart function. Also, have the op
 
 ## Geek-Text Shopping Cart First Demo - Watch Video
 
+
+![gif](https://user-images.githubusercontent.com/42846826/132781344-3cbe0be6-a8c6-4393-9448-a990ef778ed9.gif)
+
+
+
 https://www.loom.com/share/df4a1c24285b4ba29b232d02b6de71e9
 
 
